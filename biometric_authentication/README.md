@@ -1,16 +1,11 @@
-# biometric_authentication
+# Biometric Authentication
 
-A new Flutter project.
+Biometric authentication implementation in a flutter app.
+It uses the default fingerprint / face verification data stored in the device.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## App Screenshots
+![image](https://github.com/Chirantan2/biometric_authenticatin_with_flutter/assets/91784117/14149d4d-edcf-4138-a0e2-98aa9d7cd048)
+![image](https://github.com/Chirantan2/biometric_authenticatin_with_flutter/assets/91784117/bf2d1c34-ae51-465b-b0b1-b997031c2c58)
+![image](https://github.com/Chirantan2/biometric_authenticatin_with_flutter/assets/91784117/8d0bbee2-6fe1-4feb-9e8d-e480d5bfa160)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
